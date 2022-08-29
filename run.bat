@@ -1,0 +1,2 @@
+python ticketcleaner.py
+pause
